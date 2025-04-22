@@ -10,8 +10,7 @@
 - 🔒 AES-256 GCM encryption with unique nonce per chunk
 
 ## 🚀 Demo
-
-[Live Demo]("https://www.youtube.com/watch?v=LwRR86JO5Os") 
+[![Live Demo](https://img.youtube.com/vi/LwRR86JO5Os/0.jpg)]("https://www.youtube.com/watch?v=LwRR86JO5Os") 
 
 ## 🔧 Usage
 Run Receiver:
